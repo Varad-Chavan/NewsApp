@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #023e8a; /* Deep blue background */
+    padding: 0.5rem 1rem;
+  }
+  
+  .navbar-brand, .navbar-nav .nav-link {
+    color: #ffffff;
+  }
+  
+  .navbar-brand:hover, .navbar-nav .nav-link:hover {
+    color: #ade8f4; /* Light blue for hover effects */
+  }
+  

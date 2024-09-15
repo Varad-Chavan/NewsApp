@@ -1,0 +1,53 @@
+/* News Component Container */
+.container.my-3 {
+    background-color: #282c34; /* Dark background for the content area */
+    color: #ffffff; /* White text color for readability */
+    padding: 20px; /* Padding around the content */
+    border-radius: 8px; /* Rounded corners for a modern look */
+    margin-top: 20px; /* Additional margin from the top */
+}
+
+/* Headline styling */
+h2 {
+    color: #ffffff; /* White color for headlines */
+    margin-bottom: 20px; /* Space below the headline */
+    text-align: center; /* Center align the headlines */
+}
+
+/* News Item container */
+.row {
+    margin: 0 -15px; /* Adjusts spacing between news items */
+}
+
+/* Individual news item styling */
+.col-md-4 {
+    padding: 15px; /* Padding around each news item */
+    display: flex; /* Flex display to better manage the layout */
+    align-items: stretch; /* Stretch items to fill the container */
+}
+
+/* Button styling */
+.btn-dark {
+    background-color: #333; /* Darker button background for better contrast */
+    color: #fff; /* White text for buttons */
+    border: none; /* Remove default border */
+    padding: 10px 20px; /* Padding inside buttons */
+    margin: 20px 10px 0 10px; /* Margin around buttons */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.btn-dark:hover {
+    background-color: #555; /* Slightly lighter on hover for visual feedback */
+}
+
+.btn-dark:disabled {
+    background-color: #555; /* Disabled state color */
+    color: #777; /* Text color for disabled state */
+    cursor: not-allowed; /* Cursor to indicate disabled state */
+}
+
+/* Spinner styling if present */
+.spinner {
+    display: block;
+    margin: 30px auto; /* Center the spinner */
+}

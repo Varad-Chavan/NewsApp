@@ -1,0 +1,13 @@
+.news-item {
+    margin-bottom: 1rem;
+  }
+  
+  .news-item .card-body {
+    padding: 1rem;
+  }
+  
+  .news-item small {
+    display: block;
+    margin-top: 0.5rem;
+  }
+  

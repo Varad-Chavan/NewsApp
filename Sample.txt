@@ -1,0 +1,616 @@
+
+"status": "ok",
+"totalResults": 47,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "Deadline"
+},
+"author": "Glenn Garner",
+"title": "Eve Hewson In Early Talks For Untitled Steven Spielberg Event Film",
+"description": "Eve Hewson is eyeing a reunion with Steven Spielberg for his next big event film. The Perfect Couple actress is in early talks to star in the Oscar-winning director’s upcoming untitled project at Universal Pictures, Deadline has learned, after Hewson previous…",
+"url": "http://deadline.com/2024/09/eve-hewson-early-talks-steven-spielberg-untitled-event-film-1236081283/",
+"urlToImage": "https://deadline.com/wp-content/uploads/2024/09/Eve-Hewson-Steven-Spielberg-2-shot.jpg?w=1024",
+"publishedAt": "2024-09-08T00:30:11Z",
+"content": "Eve Hewson is eyeing a reunion with Steven Spielberg for his next big event film.\r\nThe Perfect Couple actress is in early talks to star in the Oscar-winning director’s upcoming untitled project at Un… [+1224 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ascii.jp"
+},
+"author": "ASCII",
+"title": "【iPhone 16予約攻略術】Apple Storeで勝利をつかむには準備がとにかく重要！ 必要なテクはこれ！",
+"description": "9月10日2時からのイベントで発表されるであろうiPhone 16。例年のパターンだと、同じ週の金曜夜（13日の金曜日！）にも予約が開始されると推測できます。そこでApple Storeでの予約＆発売日での入手を前提に、準備しておきたい点、頭に入れておきたい点など、6つのポイントを紹介します。",
+"url": "https://weekly.ascii.jp/elem/000/004/220/4220390/",
+"urlToImage": "https://ascii.jp/img/2024/09/08/3793157/l/5fc24e13426fe22f.png",
+"publishedAt": "2024-09-08T03:00:00Z",
+"content": "9102iPhone 1613Pro\r\nApple Store6\r\nApple StoreiPhone 16\r\nApple StoreiPhone\r\nApple Store\r\niPhone 161\r\n1iPhone……\r\nProPro MaxPlusiPhone3Apple Care\r\nApple Care30\r\n11\r\niPhone 162Apple Store\r\nApple StoreiPh… [+299 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Geekpark.net"
+},
+"author": null,
+"title": "罗永浩评微信苹果之争：微信肯定不怕苹果；100万人排队预定华为三折叠手机；英伟达市值蒸发4000亿美元",
+"description": "华为三折叠开启预订：超 100 万人预约\n9 月 7 日午间，备受期待的华为三折叠正式开启预订。\n\n海报还正式公布了华为三折叠的外观，采用独特镜头纹理，以及高辨识度的小金标。据悉，\n这款产品将于 9 月 10 日的华为发布会上正式推出，价格也有待届时揭晓，将于 9 月 20 日 10:08 正式开售。　　\n\n目前已有超 100 万人预约！价格或突破 2 万元。（来源：东方财富网）\n\n英伟达市值一周蒸发 4060 亿美元，超过 AMD 和高通之和\n英伟达本周市值缩水 4060 亿美元。这对任何一家美国公司来说都是创…",
+"url": "https://www.geekpark.net/news/340350",
+"urlToImage": "https://imgslim.geekpark.net/uploads/image/file/35/32/353281ba8eb00f3089d2024f7dcfc5fe.jpg",
+"publishedAt": "2024-09-08T00:28:14Z",
+"content": "100 \r\n9 7 \r\n9 10 9 20 10:08 \r\n100 2 \r\n4060 AMD \r\n 4060 AMD(134.35, -5.09, -3.65%) (158.19, -5.51, -3.37%) \r\n (40345.4102, -410.34, -1.01%) \r\n 13.9% 2022 9 2 16.1% 2.5 \r\n Mac \r\n Apple Store Mac PC Cop… [+724 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Browneyedbaker.com"
+},
+"author": "Michelle",
+"title": "The Weekend Dish: 9/7/2024",
+"description": "The Weekend Dish: 9/7/2024\nHello and happy weekend to you! I hope this first week of September was good to you and that you are enjoying a few simple joys this weekend, xo On Brown Eyed Baker This Week Hearty Beef Stew – This beef stew recipe is cooked in the…",
+"url": "https://www.browneyedbaker.com/the-weekend-dish-9-7-2024/",
+"urlToImage": "https://www.browneyedbaker.com/wp-content/uploads/2016/11/weekend-dish-thumbnail.png",
+"publishedAt": "2024-09-08T02:18:07Z",
+"content": "Hello and happy weekend to you! \r\nI hope this first week of September was good to you and that you are enjoying a few simple joys this weekend, xo\r\nHearty Beef Stew – This beef stew recipe is cooked … [+1922 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Netaful.jp"
+},
+"author": "コグレマサト",
+"title": "【Apple Watch整備済製品】Apple Watch Series 9・Apple Watch SE・Apple Watch Ultra・Apple Watch Ultra 2【2024年9月8日】",
+"description": "Apple公式サイトの「Apple Watch整備済製品」の情報です。 Appleの整備済み品は問題があって返品された商品などを整備し、テスト後認定されたものです。1年間の特別保証が付いています。 最新の在庫情報は「Ap...\n投稿 【Apple Watch整備済製品】Apple Watch Series 9・Apple Watch SE・Apple Watch Ultra・Apple Watch Ultra 2【2024年9月8日】 は ネタフル に最初に表示されました。",
+"url": "https://netaful.jp/apple-refurbished/0156217.html",
+"urlToImage": "https://netaful.jp/wp-content/uploads/2024/05/slproImg_202008300941310-5.jpg",
+"publishedAt": "2024-09-08T00:00:00Z",
+"content": "AppleApple Watch\r\nApple1\r\nApple\r\nApple Watch SEGPS- 40mmM/L []\r\n29,800\r\nApple Watch SEGPS- 40mmM/L []\r\n29,800\r\nApple Watch SEGPS- 44mmS/M []\r\n33,800\r\nApple Watch SEGPS- 44mmM/L []\r\n33,800\r\nApple Watc… [+2643 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Netaful.jp"
+},
+"author": "コグレマサト",
+"title": "【Mac整備済製品】MacBook Air・MacBook Pro・iMac・Mac Studio【2024年9月8日】",
+"description": "Apple公式サイトの「Mac整備済製品」の情報です。 Appleの整備済み品は問題があって返品された商品などを整備し、テスト後認定されたものです。1年間の特別保証が付いています。 最新の在庫情報は「Apple整備済製品...\n投稿 【Mac整備済製品】MacBook Air・MacBook Pro・iMac・Mac Studio【2024年9月8日】 は ネタフル に最初に表示されました。",
+"url": "https://netaful.jp/apple-refurbished/0156227.html",
+"urlToImage": "https://netaful.jp/wp-content/uploads/2024/06/apple-refurbished-mac-1.jpg",
+"publishedAt": "2024-09-08T04:00:00Z",
+"content": "AppleMac\r\nApple1\r\nApple\r\n24iMac [] 8CPU7GPUApple M1 – 144,800\r\n15MacBook Air [] 8CPU10GPUApple M2 – 154,800\r\n15MacBook Air [] 8CPU10GPUApple M2 – 154,800\r\n24iMac [] 8CPU8GPUApple M1Ethernet – 165,800… [+5193 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "3dnews.ru"
+},
+"author": null,
+"title": "Процессор Apple iPhone 16 будет использовать архитектуру Armv9",
+"description": "Отсчёт до презентации нового поколения iPhone можно вести буквально в десятках часов, но это не мешает интересной информацией о новинках Apple появляться с завидным упорством. Издание Financial Times сообщило, что используемый в семействе iPhone 16 процессор …",
+"url": "https://3dnews.ru/1110628/protsessor-apple-iphone-16-budet-ispolzovat-arhitekturu-armv9",
+"urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/09/08/1110628/a18_01.jpg",
+"publishedAt": "2024-09-08T03:00:00Z",
+"content": "iPhone , Apple . Financial Times , iPhone 16 A18 Armv9, .\r\n: Apple\r\nArm Apple , v9 v8. Apple Arm, , iPhone .\r\n Arm 2021 v9 Apple M4, . iPhone 16 Apple Intelligence, . Apple iPhone 15 Pro iPhone 15 Pr… [+54 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "PhoneArena"
+},
+"author": "Alan Friedman",
+"title": "Starting in 2027, Apple could be taking a big gamble with the iPhone",
+"description": "Apple might stop using Qualcomm's Snapdragon 5G modem chip on new iPhone models starting in 2027.",
+"url": "https://www.phonearena.com/news/apple-to-drop-qualcomm-5g-modem-2027_id162311",
+"urlToImage": "https://m-cdn.phonearena.com/images/article/162311-wide-two_1200/Starting-in-2027-Apple-could-be-taking-a-big-gamble-with-the-iPhone.jpg",
+"publishedAt": "2024-09-08T01:56:39Z",
+"content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
+},
+{
+"source": {
+"id": null,
+"name": "CleanTechnica"
+},
+"author": "David Waterworth",
+"title": "My Volvo EX30",
+"description": "We met the Volvo EX30 during an adventure day back in May. Then we met up with Tom and spent a weekend with him and his car at the Rockhampton and Gladstone electric vehicle displays. “Let me know when you want to do an interview for an article for CleanTechn…",
+"url": "https://cleantechnica.com/2024/09/07/my-volvo-ex30/",
+"urlToImage": "https://cleantechnica.com/wp-content/uploads/2024/09/Volvo-EX30-tow-review-Australia.jpg",
+"publishedAt": "2024-09-08T00:03:19Z",
+"content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nWe met the Volvo EX30 during an adventure day back in May. Then we met up with Tom and spent a weekend with h… [+9670 chars]"
+},
+{
+"source": {
+"id": "the-american-conservative",
+"name": "The American Conservative"
+},
+"author": "Sean McMeekin",
+"title": "Did Communism Really Fall?",
+"description": "The essence of Communism is both subtler and more familiar than economic programs.\nThe post Did Communism Really Fall? appeared first on The American Conservative.",
+"url": "https://www.theamericanconservative.com/did-communism-really-fall/",
+"urlToImage": "https://www.theamericanconservative.com/wp-content/uploads/2024/09/shutterstock_2367708705-scaled-e1725632914108.jpg",
+"publishedAt": "2024-09-08T04:03:00Z",
+"content": "Whenever the foreign news is especially depressing, I like to reminisce about the halcyon days of 1989, when the fall of the Berlin wall so memorably illustrated the collapse of Communist tyranny in … [+12815 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Dgtle.com"
+},
+"author": "数字尾巴新闻社",
+"title": "领先苹果落地AI Agent，荣耀引领智能手机开启“自动驾驶”",
+"description": "9月6日，在2024德国柏林国际消费电子展（IFA 2024）上，荣耀再度站上技术革新的前沿，发布行业首个跨应用开放生态智能体——荣耀AI Agent，并宣布这一创新技术将在荣耀Magic7系列手机上率先商用。随着荣耀AI Agent的成功落地，智能体手机时代也将正式拉开大幕。 依托四大核心能力，HONOR AI Agent让手机开启“自动驾驶”在荣耀看来，AI Agent应该具备四大核心能力——“自然语义理解和计算机视觉”、“用户行为习惯学习和场景环境感知”、“意图识别并决策”，以及“应用内及跨应用操作”。而基…",
+"url": "https://www.dgtle.com/news-1553304-14.html",
+"urlToImage": null,
+"publishedAt": "2024-09-08T03:55:51Z",
+"content": "962024IFA 2024AI AgentMagic7AI Agent\r\nHONOR AI Agent\r\nAI AgentAI Agent \r\nIFAAI AgentAIAI Agent\r\nAI Agent AgentAgentAI Agent\r\nAI Agent\r\n6(WWDC24)Apple IntelligenceAIiOSAIApple IntelligenceAIAI Agent\r\n… [+183 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "Apple 苹果 MacBook Air 2022款 13.6英寸轻薄本（M2、8GB、256GB） 5359.2元",
+"description": "玩家之道Apple M2芯片，1.24kg轻巧随行。京东自营目前活动售价8999元，下单参与满7000元减1300元、领取广州消费券补贴20%（全国可领可用），实付低至5359.2元，近期好价。国内全国可领可用：广东消费券，以旧换新补贴买电脑至高减2000元，助力《黑神话：悟空》玩家直面...",
+"url": "https://www.smzdm.com/p/124876973/",
+"urlToImage": "https://qny.smzdm.com/202207/26/62df8bacc56cb7234.jpg_d250.jpg",
+"publishedAt": "2024-09-08T02:52:23Z",
+"content": "2022MacBook Air13.6 Liquid 500 25%MacBook Air MacBook Air \r\nM2 M M2 8 10 M2 100GB/s 24GB ProRes M2 4K 8K \r\n M2 MacBook Air 11.3 1.22 20% M2 MacBook Air \r\nMagSafe MacBook Air 2 3.5 ID"
+},
+{
+"source": {
+"id": null,
+"name": "Wonkette.com"
+},
+"author": "ziggywiggy",
+"title": "Wonkette Movie Night: The Birds",
+"description": "A murder on the playground!",
+"url": "https://www.wonkette.com/p/wonkette-movie-night-the-birds",
+"urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbec29b69-d8d7-45e7-b66f-34f57f0c66b9_900x600.png",
+"publishedAt": "2024-09-08T00:00:58Z",
+"content": "A large flock of birds perched in one place tends to creep people out. I have noticed this with pigeons in my Washington Heights neighborhood and my first thought is always The Birds. Many of us watc… [+2423 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "International Business Times"
+},
+"author": "Shaun TANDON",
+"title": "Biden Team, End In Sight, Keeps Hope On Gaza Truce Despite Setbacks",
+"description": "A ceasefire agreement in Gaza, an anonymous US official told reporters, is 90 percent ready.",
+"url": "https://www.ibtimes.com/biden-team-end-sight-keeps-hope-gaza-truce-despite-setbacks-3742349",
+"urlToImage": "https://d.ibtimes.com/en/full/4546274/us-president-joe-biden-speaks-us-secretary-state-antony-blinken-during-nato-summit-washington.jpg",
+"publishedAt": "2024-09-08T01:36:11Z",
+"content": "A ceasefire agreement in Gaza, an anonymous US official told reporters, is 90 percent ready. Israeli Prime Minister Benjamin Netanyahu then swiftly called the assessment inaccurate. But within hours,… [+4479 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Overclockers.ru"
+},
+"author": "Niko4123",
+"title": "Apple iPhone 16 будет использовать архитектуру Armv9-A",
+"description": "Переход на Armv9-A  дает текущим устройствам Android преимущество при обработке больших наборов данных.",
+"url": "https://overclockers.ru/blog/New_Intel_Raptor_ES/show/178893/Apple-iPhone-16-budet-ispol-zovat-arhitekturu-Armv9-A-dlya-sverhsposobnostej-A18-Bionic-AI",
+"urlToImage": "https://overclockers.ru/st/legacy/blog/416880/560214_O.jpg",
+"publishedAt": "2024-09-08T02:40:19Z",
+"content": "Apple , M4 \" \" , iPad . M1 2020 Apple Mac iPhone ( iPad, M1 iPad Pro). Financial Times , - .\r\n iOS 18 , iPhone . OpenAI - Apple Intelligence - iOS 18.1 ( - macOS 15.1 iPadOS 18.1). Apple x.1 , - . - … [+184 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Overclockers.ru"
+},
+"author": "Breaking news",
+"title": "Apple сообщает о превосходстве своего MacBook Air M3 над ноутбуком Copilot+ PC до 40 %",
+"description": "Кроме того, компания подчёркивает, что её продукт является лучшим ПК с ИИ.",
+"url": "https://overclockers.ru/blog/breaking-news/show/178884/Apple-soobschaet-o-prevoshodstve-MacBook-Air-M3-nad-noutbukom-Copilot-PC-do-40",
+"urlToImage": "https://overclockers.ru/st/legacy/blog/429624/560205_O.jpg",
+"publishedAt": "2024-09-08T00:20:18Z",
+"content": ", Apple, , , Copilot+ PC, NotebookCheck.\r\n: Apple\r\n MacBook Air M3, , Apple , , , , Copilot+ PC.\r\nApple MacBook Air M3, 8- CPU 10- GPU, Microsoft Surface Laptop 7th Edition, 12- Snapdragon X Elite Ad… [+90 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Iphone-mania.jp"
+},
+"author": "hato",
+"title": "イーロン・マスク氏が共感！クックCEO語ったiPhoneを中国で作る理由",
+"description": "Appleのティム・クック最高経営責任者（CEO）が、iPhoneなどの製品を中国で製造する理由を語った約7年前の動画に、Appleに批判的な言動が目立つイーロン・マスク氏が共感を示し、注目を集めています。Appleは現在、中国からインドやベトナムなどへの製造拠点移転を加速させています。",
+"url": "https://iphone-mania.jp/apple-585921/",
+"urlToImage": "https://iphone-mania.jp/uploads/2024/09/08/TimCook_TalksChina_2017FortuneGlobalForum.jpg",
+"publishedAt": "2024-09-08T02:50:29Z",
+"content": "AppleCEOiPhone7AppleApple\r\nAppleCEOAppleXTwitter\r\n201712Fortune Global Forum\r\n2017Apple\r\nTrue6502,000\r\nAppleApple\r\nAppleApple IntelligenceChat GPTXTeslaApple\r\nApple\r\n9102Its Glowtime.iPhone16iPhone16… [+69 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Elconfidencial.com"
+},
+"author": "R. Badillo",
+"title": "¿Habrá un nuevo botón de acción? Esto es lo que se sabe del nuevo iPhone 16",
+"description": "Se trató de una de las novedades más interesantes de los iPhone 15 Pro y Pro Max. Todo apunta a que podría estar incluido en las cuatro versiones del iPhone 16",
+"url": "https://www.elconfidencial.com/tecnologia/2024-09-08/boton-accion-iphone-16-lo-que-se-sabe_3956772/",
+"urlToImage": "https://images.ecestaticos.com/-ZDfJMiIIWYVgAX3es93M01OoFw=/0x0:1252x838/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/a4e/446/a35/a4e446a35517b3a6e9693ab9d6b2ba4c.jpg",
+"publishedAt": "2024-09-08T03:00:00Z",
+"content": "Las novedades del iPhone 16: este será el nuevo color más deseadoEl iPhone 16 está más cerca: esto es todo lo que sabemos, y por qué será clave para AppleLos iPhone 14 Pro y Pro Max incluyeron una no… [+2889 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Cnbeta.com.tw"
+},
+"author": null,
+"title": "苹果官网上线秋季发布会倒计时：iPhone 16系列、AirPods 4整装待发",
+"description": "北京时间9月10日（周二）凌晨1点，苹果将举办秋季发布会，这是消费电子市场今年秋季迎来的第一场重磅活动。目前，苹果中国官网已上线本次发布会倒计时，同时提示可以将发布会加入日历。\r\n\n据了解，苹果将在秋季发布会上发布iPhone 16 系列、新一代Apple Watch、及AirPods 4等多款新品。作为发布会的重头戏，iPhone 16系列依然会带来四个版本，包括iPhone 16标准版、iPhone 16 Plus，以及性能更强的iPhone 16 Pro和iPhone 16 Pro Max。从爆料来看，今年…",
+"url": "https://www.cnbeta.com.tw/articles/tech/1445006.htm",
+"urlToImage": "https://static.cnbetacdn.com/article/2024/0908/27d4f27c7667c73.png",
+"publishedAt": "2024-09-08T01:36:20Z",
+"content": "iPhone 16 Apple WatchAirPods 4\r\niPhone 16iPhone 16iPhone 16 PlusiPhone 16 ProiPhone 16 Pro Max\r\nProiPhone 16 ProiPhone 16 Pro Max6.16.76.36.912004800\r\niPhone 16 Pro5iPhone 16 Pro Max\r\niPhone 16 Pro\r\n… [+118 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Arigato-ipod.com"
+},
+"author": "アイアリ",
+"title": "寺田農やリリー・フランキーも！　Apple TV+のドラマ「サニー」に出演している日本人俳優まとめ",
+"description": "Apple TV+で配信されている、京都を舞台にしたドラマ「サニー」のシーズン1が最終回を迎えたので、出演していた日本人俳優をまとめます。 ドラマ「サニー」について 飛行機事故で消息不明になった夫が設計した、ロボットと暮 […]\nThe post 寺田農やリリー・フランキーも！　Apple TV+のドラマ「サニー」に出演している日本人俳優まとめ first appeared on アイアリ.",
+"url": "https://arigato-ipod.com/2024/09/apple-tv-plus-sunny-japanese-actors.html",
+"urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2024/09/240908sunnycast.webp",
+"publishedAt": "2024-09-08T02:07:24Z",
+"content": "Apple TV+で配信されている、京都を舞台にしたドラマ「サニー」のシーズン1が最終回を迎えたので、出演していた日本人俳優をまとめます。\nドラマ「サニー」について\n\n飛行機事故で消息不明になった夫が設計した、ロボットと暮らすことになった女性を描くミステリースリラーです。\n日本を拠点に活動するアイルランド出身の作家、コリン・オサリバン（Colin O’Sullivan）の著書「The Dark … [+1864 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ferra.ru"
+},
+"author": "Максим Многословный",
+"title": "Из-за утонувших iPhone на Apple решили подать коллективный иск",
+"description": "Квебекская юридическая фирма LPC Avocats добивается разрешения на подачу коллективного иска против Apple, утверждая, что компания ввела потребителей в заблуждение относительно водонепроницаемости своих iPhone. В иске утверждается, что, хотя Apple рекламирует …",
+"url": "https://www.ferra.ru/news/mobile/iz-za-utonuvshikh-iphone-na-apple-reshili-podat-kollektivnyi-isk-07-09-2024.htm",
+"urlToImage": "https://www.ferra.ru/imgs/2024/09/07/12/6586404/0c46462cfa84a52f40a9cc795129110879451fbc.webp",
+"publishedAt": "2024-09-08T00:45:11Z",
+"content": ", , , Apple -       ,    , iPhone .   19- , iPhone      .  , , Apple -  .\r\n , Apple,        .   ,     500 ,  ."
+},
+{
+"source": {
+"id": null,
+"name": "The Punch"
+},
+"author": "Olufunke",
+"title": "Health benefits of fruits: Garden egg",
+"description": "Ordinarily, peanuts do not cause liver cancer as people believe. What you should avoid are mouldy or spoilt groundnuts because they contain aflatoxin. Having said that, I am worried about consuming store-bought peanut butter. Apart from the fact that they hav…",
+"url": "https://punchng.com/health-benefits-of-fruits-garden-egg/",
+"urlToImage": "https://cdn.punchng.com/wp-content/uploads/2020/02/22204250/Olufunke.jpg",
+"publishedAt": "2024-09-08T00:05:51Z",
+"content": "Ordinarily, peanuts do not cause liver cancer as people believe. What you should avoid are mouldy or spoilt groundnuts because they contain aflatoxin.\r\nHaving said that, I am worried about consuming … [+7414 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Yahoo Sports Videos",
+"title": "No. 5 Notre Dame, stunned by Northern Illinois, now has a long road to CFP | College Football Power Hour",
+"description": "Yahoo Sports' Jason Fitz and Caroline Fenton react to the Fighting Irish's 16-14 loss to the Huskies at home and discuss Notre Dame's murky path to the College Football Playoff. Subscribe to the “College Football Power Hour” podcast on Apple Podcasts, Spotify…",
+"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_97e12570-f362-404f-af88-5e08e5b8c8df",
+"urlToImage": null,
+"publishedAt": "2024-09-08T02:08:45Z",
+"content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+},
+{
+"source": {
+"id": "the-jerusalem-post",
+"name": "The Jerusalem Post"
+},
+"author": "BY TAMAR URIEL-BEERI",
+"title": "A visit to a ‘real, authentic’ Jerusalem hotel",
+"description": "While the hotel’s history is very pretty, is the hotel just as such? The answer, simply, is yes; it’s outright gorgeous.",
+"url": "https://www.jpost.com/j-spot/article-819095",
+"urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/620441",
+"publishedAt": "2024-09-08T00:33:09Z",
+"content": "Walking through the arched entryway to the cozy lobby of the American Colony Hotel in Jerusalem is like stepping into another time. That was precisely the feeling I had when I came to review this hot… [+8002 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "asia.nikkei.com",
+"title": "Japan display makers pay dearly for failing to foresee iPhone's LCD exit",
+"description": "TOKYO/OSAKA -- Japanese display makers, once the biggest suppliers of iPhone screens, will no longer be part of the Apple supply chain as they failed to anticipate the company's total switchover to organic light-emitting diode (OLED) displays.\nApple has infor…",
+"url": "https://biztoc.com/x/108150362c6a5e1f",
+"urlToImage": "https://biztoc.com/cdn/108150362c6a5e1f_s.webp",
+"publishedAt": "2024-09-08T02:38:09Z",
+"content": "TOKYO/OSAKA -- Japanese display makers, once the biggest suppliers of iPhone screens, will no longer be part of the Apple supply chain as they failed to anticipate the company's total switchover to o… [+138 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "investors.com",
+"title": "Dow Jones Futures: Stock Market Has Worst Week In Over A Year; Apple iPhone 16 On Deck",
+"description": "Access to this page has been denied because we believe you are using automation tools to browse the website.\nThis may happen as a result of the following:\n- Javascript is disabled or blocked by an extension (ad blockers for example)\n- Your browser does not su…",
+"url": "https://biztoc.com/x/d03f71b5f9d855f6",
+"urlToImage": "https://biztoc.com/cdn/800/og.png",
+"publishedAt": "2024-09-08T01:20:13Z",
+"content": "Access to this page has been denied because we believe you are using automation tools to browse the website.This may happen as a result of the following:- Javascript is disabled or blocked by an exte… [+131 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Digital Journal"
+},
+"author": "Markos Papadatos",
+"title": "Review: Bella DeLong, Amber Janea and Daryl Tofa star in ‘Don’t Turn Out the Lights’",
+"description": "\"Don't Turn Out the Lights\" is a new horror thriller that was written and directed by filmmaker Andy Fickman.\nThe post Review: Bella DeLong, Amber Janea and Daryl Tofa star in ‘Don’t Turn Out the Lights’ appeared first on Digital Journal.",
+"url": "https://www.digitaljournal.com/entertainment/review-bella-delong-amber-janea-and-daryl-tofa-star-in-dont-turn-out-the-lights/article",
+"urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/09/Quiver-Distribution.jpg",
+"publishedAt": "2024-09-08T01:05:24Z",
+"content": "Bella DeLong in 'Don't Turn Out the Lights.' Photo Courtesy of Quiver Distribution.\r\n“Don’t Turn Out the Lights” is a new horror thriller that was written and directed by filmmaker Andy Fickman (“Rac… [+1575 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Digital Journal"
+},
+"author": "AFP",
+"title": "Biden team, end in sight, keeps hope on Gaza truce despite setbacks",
+"description": "A ceasefire agreement in Gaza, an anonymous US official told reporters, is 90 percent ready. Israeli Prime Minister Benjamin Netanyahu then swiftly called the assessment inaccurate. But within hours, Secretary of State Antony Blinken insisted that, indeed, 90…",
+"url": "https://www.digitaljournal.com/world/biden-team-end-in-sight-keeps-hope-on-gaza-truce-despite-setbacks/article",
+"urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2024/09/3d1f9fd8e8d8a76b1e9b344bbf9f08b82cdabaf6.jpg",
+"publishedAt": "2024-09-08T01:34:58Z",
+"content": "US President Joe Biden speaks with US Secretary of State Antony Blinken during the NATO summit in Washington in July 2024\r\n- Copyright AFP/File Ludovic MARIN\r\nA ceasefire agreement in Gaza, an anonym… [+4684 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Agencies",
+"title": "Bits & Bytes: Top developments from the tech industry this week",
+"description": "Apple plans to switch all iPhones to OLED displays by 2025, moving away from LCDs. This change will exclude Japan's Sharp and Japan Display from Apple's supply chain. Meanwhile, Google faces a second antitrust trial over its digital ad business, and the Inter…",
+"url": "https://economictimes.indiatimes.com/tech/tech-bytes/bits-bytes-top-developments-from-the-tech-industry-this-week/articleshow/113153149.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-113153184,width-1200,height-630,imgsize-23868,overlay-ettech/photo.jpg",
+"publishedAt": "2024-09-08T00:41:00Z",
+"content": "Apple to switch to OLED displays for all iPhones\r\nApple will use organic light-emitting diode (OLED) displays for all iPhone models sold in 2025 and later, moving entirely away from liquid crystal di… [+3581 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Writankar Mukherjee",
+"title": "Consumer goods companies talk up innovation but cut down R&D spends",
+"description": "Many Indian consumer goods companies, including ITC and Maruti Suzuki, have reduced their R&D spending as a percentage of revenue over the past five years. Despite emphasizing innovation in their reports, only a few have marginally increased their R&D budgets…",
+"url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/consumer-goods-companies-talk-up-innovation-but-cut-down-rd-spends/articleshow/113157130.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-113157132,width-1200,height-630,imgsize-59728,overlay-economictimes/photo.jpg",
+"publishedAt": "2024-09-08T00:00:00Z",
+"content": "Most consumer goods makers in India such as ITC, Maruti Suzuki, Asian Paints, and Mahindra &amp; Mahindra have cut research and development (R&amp;D) spends as a percentage of revenues in the last fi… [+3790 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "PhoneArena"
+},
+"author": "Abdullah Asim",
+"title": "Leaks claim Galaxy S25 Ultra is slimmest to date, but wouldn’t a better battery be more ultra?",
+"description": "Exact dimensions of the Samsung Galaxy S25 Ultra have leaked, which suggest that this is the slimmest Ultra phone to date.",
+"url": "https://www.phonearena.com/news/leaks-galaxy-s25-ultra-slimmest_id162313",
+"urlToImage": "https://m-cdn.phonearena.com/images/article/162313-wide-two_1200/Leaks-claim-Galaxy-S25-Ultra-is-slimmest-to-date-but-wouldnt-a-better-battery-be-more-ultra.jpg",
+"publishedAt": "2024-09-08T03:11:19Z",
+"content": "At just 8.2 mm of reported thickness compared to 8.6 mm of the S24 Ultra Samsung is continuing its trend of slimming down its phones. But why? Surely such a tiny change will be indistinguishable for … [+1126 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Elconfidencial.com"
+},
+"author": "Janina Pérez Arias. Venecia",
+"title": "Almodóvar gana el León de Oro: \"El ser humano debe ser libre para vivir y para morir cuando la vida sea insufrible\"",
+"description": "El director manchego hace historia en una noche veneciana con 'La habitación de al lado', su primera película en inglés, protagonizada por Tilda Swinton y Julianne Moore",
+"url": "https://www.elconfidencial.com/cultura/2024-09-08/almodovar-gana-leon-oro-festival-venecia_3957598/",
+"urlToImage": "https://images.ecestaticos.com/n-EVmQU1hIX1LRclD2DmDx4JmgQ=/0x0:2272x1486/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/2c8/a14/1c3/2c8a141c351eb05f46783f2ea88a99c2.jpg",
+"publishedAt": "2024-09-08T03:00:00Z",
+"content": "A Pedro Almodóvar le habían visto embarcar un avión con rumbo a Venecia. Otro día cualquiera no hubiera sido noticia, pero no precisamente el día de clausura de la 81° edición de la Mostra de Venecia… [+12760 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Writankar Mukherjee",
+"title": "Consumer goods companies talk up innovation but cut down R&D spends",
+"description": "Many Indian consumer goods companies, including ITC and Maruti Suzuki, have reduced their R&D spending as a percentage of revenue over the past five years. Despite emphasizing innovation in their reports, only a few have marginally increased their R&D budgets…",
+"url": "https://economictimes.indiatimes.com/news/company/corporate-trends/consumer-goods-companies-talk-up-innovation-but-cut-down-rd-spends/articleshow/113157130.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-113157132,width-1200,height-630,imgsize-59728,overlay-economictimes/photo.jpg",
+"publishedAt": "2024-09-08T00:00:00Z",
+"content": "Most consumer goods makers in India such as ITC, Maruti Suzuki, Asian Paints, and Mahindra &amp; Mahindra have cut research and development (R&amp;D) spends as a percentage of revenues in the last fi… [+3790 chars]"
+},
+{
+"source": {
+"id": "la-nacion",
+"name": "La Nacion"
+},
+"author": "Sebastián Campanario",
+"title": "Los motores que aceleran el despliegue de la nueva “economía de la introversión”",
+"description": "Durante décadas se premiaron y se fomentaron en el mundo corporativo las actitudes acordes a personas muy sociables y de alto perfil; sin embargo, son varios los ejemplos de quienes se destacaron siendo de carácter tranquilo; incluso, existen escuelas de mana…",
+"url": "https://www.lanacion.com.ar/economia/los-motores-que-aceleran-el-despliegue-de-la-nueva-economia-de-la-introversion-nid08092024/",
+"urlToImage": "https://resizer.glanacion.com/resizer/v2/youngbusinessmanworkingaloneinaboardroo-TERSIGYH2BEW3FRFYUVFJVTYAA.jpg?auth=8fce346f79be3f55c5a1bf37ab8fd99aafbd494e9642ce5748d425cabb07e618&width=768&quality=70&smart=false",
+"publishedAt": "2024-09-08T03:04:00Z",
+"content": "Hablar bien en público, socializar con todo el mundo, no perderse ni un evento festivo en la oficina, golpear la mesa y defender con firmeza las convicciones propias, dar un paso al frente primero en… [+6501 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Netaful.jp"
+},
+"author": "コグレマサト",
+"title": "楽天リーベイツ、Apple公式サイトの購入で楽天ポイント最大4.0%還元キャンペーンを実施中（9/11まで）",
+"description": "ポイント還元サイト「楽天リーベイツ」が、Apple公式サイトで購入すると、楽天ポイントが最大4.0%還元されるキャンペーンを実施しています。通常は1%なので、ポイント還元増量中です。 Apple製品が4.0%還元というこ...\n投稿 楽天リーベイツ、Apple公式サイトの購入で楽天ポイント最大4.0%還元キャンペーンを実施中（9/11まで） は ネタフル に最初に表示されました。",
+"url": "https://netaful.jp/neta2024/0156220.html",
+"urlToImage": "https://netaful.jp/wp-content/uploads/2024/09/rakuten-rebates-202409.jpg",
+"publishedAt": "2024-09-08T00:59:10Z",
+"content": "Apple4.0%1%\r\nApple4.0%iPhoneiPhone 15 Pro1%MaciPad\r\nApple\r\n4.0%\r\nApple4.0%\r\nApple Vision ProApple Pro Display XDRAppleCareAppleCare+Apple Developer Program\r\n4.0%iPhone 15MacBook AiriPad\r\nApple Gift C… [+66 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Netaful.jp"
+},
+"author": "コグレマサト",
+"title": "「iPhone 16 Pro」キャプチャボタンはApple社内ではカメラボタンと呼ばれている？",
+"description": "「iPhone 16 Pro」に新しく搭載されるカメラ用のボタン「キャプチャボタン」は、Apple社内では「カメラボタン」と呼ばれているようです。9to5Macが、iPhone 16 Pro to shoot 4K 12...\n投稿 「iPhone 16 Pro」キャプチャボタンはApple社内ではカメラボタンと呼ばれている？ は ネタフル に最初に表示されました。",
+"url": "https://netaful.jp/iphone/0156215.html",
+"urlToImage": "https://netaful.jp/wp-content/uploads/2024/08/iphone-16-pro-dummy-model.jpg",
+"publishedAt": "2024-09-08T00:48:29Z",
+"content": "iPhone 16 ProApple9to5MaciPhone 16 Pro to shoot 4K 120fps videos, Camera Button tidbits\r\nInternally called the Camera Button (the marketing name may differ), it will be a touch-sensitive button capab… [+205 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Blognone.com"
+},
+"author": "arjin",
+"title": "[ลือ] กล้อง iPhone 16 Pro รองรับวิดีโอ 4K 120fps, สามารถ Pause-Resume ตอนถ่ายวิดีโอได้แล้ว",
+"description": "อีกเพียงสองวัน แอปเปิลจะแถลงข่าวเปิดตัวสินค้าใหม่ปลายปีซึ่ง iPhone 16 คือหนึ่งในนั้น ช่วงนี้เลยมีข่าวลือออกมาเรื่อย ๆ ล่าสุดเป็นข้อมูลที่ 9to5Mac บอกว่าได้จากแหล่งข่าว เกี่ยวกับกล้องของ iPhone 16\r\n\nโดยกล้องของตระกูล iPhone 16 Pro จะอัปเกรดตัวอัลตร้าไวด์เป็น 4…",
+"url": "https://www.blognone.com/node/141885",
+"urlToImage": "https://www.blognone.com/sites/default/files/externals/a7ed2e6e1d1befbc4171d5f2e9039917.jpg",
+"publishedAt": "2024-09-08T01:19:00Z",
+"content": "iPhone 16 9to5Mac iPhone 16\r\n iPhone 16 Pro 48MP ( 12MP) 5x iPhone 16 Pro iPhone 16 Pro Max iPhone 15 Pro Pro Max \r\n iPhone 16 Pro 4K 120fps ( 4K 60fps), QuickTake 4K ( 1080p) iPhone ProRes 4K 120fps… [+132 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Elconfidencial.com"
+},
+"author": "Fruela Zubizarreta",
+"title": "Del nuevo OPPO de Iker Casillas —y su goma borradora— al advenimiento del iPhone 16",
+"description": "Semana de novedades en la guerra por ser el smartphone más deseado del mundo. Los chicos y chicas de OPPO presentaban dispositivos esta semana y, visto lo visto, estamos ante otra buena oferta calidad-precio",
+"url": "https://www.vanitatis.elconfidencial.com/estilo/ocio/2024-09-08/del-nuevo-oppo-al-nuevo-iphone-16_3956779/",
+"urlToImage": "https://images.ecestaticos.com/7kuTsIdIf_rBEoOnlOqm0ee3ubE=/0x0:2272x1278/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/0f2/6d9/13e/0f26d913e1b27ca111e62b656aa354da.png,0,275,1)/f.elconfidencial.com/original/a32/fa7/b24/a32fa7b24ab8ae114ae38e7ed5524235.jpg",
+"publishedAt": "2024-09-08T03:00:00Z",
+"content": "El pasado viernes se presentaron en Madrid los nuevos dispositivos OPPO, firma adscrita al universo BBK Electronics Corporation, empresa con sede en la ciudad-prefectura de Dongguan (China), de la qu… [+2444 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ibtimes.com.au"
+},
+"author": "Shaun TANDON",
+"title": "Biden Team, End In Sight, Keeps Hope On Gaza Truce Despite Setbacks",
+"description": "A ceasefire agreement in Gaza, an anonymous US official told reporters, is 90 percent ready.",
+"url": "https://www.ibtimes.com.au/biden-team-end-sight-keeps-hope-gaza-truce-despite-setbacks-1851334",
+"urlToImage": "https://d.ibtimes.com.au/en/full/1859071/us-president-joe-biden-speaks-us-secretary-state-antony-blinken-during-nato-summit-washington.jpg",
+"publishedAt": "2024-09-08T01:36:13Z",
+"content": "A ceasefire agreement in Gaza, an anonymous US official told reporters, is 90 percent ready. Israeli Prime Minister Benjamin Netanyahu then swiftly called the assessment inaccurate. But within hours,… [+4479 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Microbe.tv"
+},
+"author": "Vincent Racaniello",
+"title": "TWiV 1147: Breastmilk paradox for norovirus",
+"description": "TWiV reviews multi-country outbreak of Mpox, first face covering ban in Nassau County NY, case of polio in India, more in US accept vaccine misinformation, other wartime diseases in Gaza besides polio, a new scientist run virus genome database, Mpox epidemiol…",
+"url": "https://www.microbe.tv/twiv/twiv-1147/",
+"urlToImage": null,
+"publishedAt": "2024-09-08T04:00:00Z",
+"content": "TWiV reviews multi-country outbreak of Mpox, first face covering ban in Nassau County NY, case of polio in India, more in US accept vaccine misinformation, other wartime diseases in Gaza besides poli… [+807 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Lavozdegalicia.es"
+},
+"author": "borja crespo",
+"title": "«Mono malo», un detective busca redimirse en la comedia del verano",
+"description": "Vince Vaughn encarna a un exdetective tan desastroso como perspicaz que busca la redención en Florida en esta serie de Apple TV+",
+"url": "https://www.lavozdegalicia.es/noticia/series/2024/09/08/detective-busca-redimirse-comedia-verano/0003_202409G8P55993.htm",
+"urlToImage": "https://img.lavdg.com/sc/DjrVCYT_Rw2PYFxrH_6nkw8N-g4=/1280x/2024/09/07/00121725707881756950680/Foto/j_20240907_131129000.jpg",
+"publishedAt": "2024-09-08T03:00:00Z",
+"content": "Mono malo se lleva, de calle, el título de la serie más refrescante del verano. Puede llevar a engaño el título de esta nueva apuesta de Apple TV+, el brazo audiovisual de la marca de tecnología, cuy… [+3809 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biblegateway.com"
+},
+"author": null,
+"title": "Old/New Testament Reading for Sunday September 8, 2024 (KJV)",
+"description": null,
+"url": "https://www.biblegateway.com/reading-plans/old-new-testament/2024/09/08/",
+"urlToImage": "https://www.biblegateway.com/assets/images/logos/logo_bg-sharing.png?ff24e694",
+"publishedAt": "2024-09-08T04:08:38Z",
+"content": "Proverbs 6-7\r\n\n\n 6 My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,\r\n 2 Thou art snared with the words of thy mouth, thou art taken with the words of thy mout… [+7353 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "TheWrap"
+},
+"author": "Mike Roe",
+"title": "Eve Hewson in Talks to Join Steven Spielberg Event Film",
+"description": "The pair previously worked together in the director's \"Bridge of Spies\"\nThe post Eve Hewson in Talks to Join Steven Spielberg Event Film appeared first on TheWrap.",
+"url": "https://www.thewrap.com/eve-hewson-steven-spielberg-event-film-casting/",
+"urlToImage": "https://www.thewrap.com/wp-content/uploads/2023/12/CMS-Eve-Hewson.jpg",
+"publishedAt": "2024-09-08T00:26:32Z",
+"content": "Eve Hewson is in early talks to join the upcoming untitled event film set to be directed by Steven Spielberg, TheWrap has learned. If Hewson joins the project, this would be a reunion for the pair, a… [+393 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Macworld"
+},
+"author": "Michael Simon",
+"title": "Apple Watch Series 10 tipped to get upgraded sensors, better water resistance",
+"description": "Macworld\n\n\n\r\n\n\n\n\nWith just hours until the Glowtime keynote, some last-minute rumors are filling in some Apple Watch details. According to 9to5Mac, Apple is planning to update the newest watches with all-new sensors.\r\n\n\n\n\nThe report claims that Apple is plann…",
+"url": "https://www.macworld.com/article/2450747/apple-watch-series-10-tipped-to-get-upgraded-sensors-better-water-resistance.html",
+"urlToImage": "https://www.macworld.com/wp-content/uploads/2024/09/apple-watch-developer.jpg?quality=50&strip=all&w=1024",
+"publishedAt": "2024-09-08T02:10:57Z",
+"content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWith just hours unti… [+1931 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hollywood Reporter"
+},
+"author": "Kirsten Chuba",
+"title": "2024 Creative Arts Emmys Winners List Night One",
+"description": "The first of the 2024 Emmy trophies are being presented at the Peacock Theater.",
+"url": "http://www.hollywoodreporter.com/tv/tv-news/2024-creative-arts-emmys-winners-list-night-one-1235991959/",
+"urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/GettyImages-1027975276.jpg?w=1296&h=730&crop=1",
+"publishedAt": "2024-09-08T00:01:31Z",
+"content": "The first night of the 2024 Creative Arts Emmys is underway.\r\nThe annual two-day event, which takes place the weekend before the Primetime Emmys, will see 99 TV awards handed out to mostly below-the-… [+48686 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Kvraudio.com"
+},
+"author": null,
+"title": "Native Instruments - Komplete 15 (in: Instruments)",
+"description": "By: audiojunkie 8 Sep 01:15 Or, you can switch to Linux! ;)Go to this post Go to first unread post in this topic",
+"url": "https://www.kvraudio.com/forum/viewtopic.php?t=613710&amp;start=150",
+"urlToImage": "https://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png",
+"publishedAt": "2024-09-08T01:15:40Z",
+"content": "Vocalpoint Studios wrote: Mon Sep 02, 2024 12:45 pmkkvvrr wrote: Mon Sep 02, 2024 8:26 amDdear GOOD devs : Please make audio products compatible with mojave... (for all the right reasons)\r\nOr you cou… [+625 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "1970-01-01T00:00:00Z",
+"content": "[Removed]"
+}
+]
